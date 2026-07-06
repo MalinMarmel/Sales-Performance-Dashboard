@@ -2,7 +2,7 @@
 
 ### Предварительный просмотр
 
-!(screenshots/dashboard.png)
+![Главный дашборд](screenshots/dashboard.png)
 
 ### Интерактивный дашборд для анализа продаж, разработанный в Microsoft Power BI.
 
